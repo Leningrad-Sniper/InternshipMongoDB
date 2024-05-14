@@ -1,4 +1,4 @@
-ongoDB Blog Application
+MongoDB Blog Application
 This repository contains code for a blog application that utilizes MongoDB as its database. The application allows users to create, read, update, and delete blog posts. Below, I’ll explain the key components of the project.
 
 Database Connection
